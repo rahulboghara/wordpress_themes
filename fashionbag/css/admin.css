@@ -1,0 +1,25 @@
+table.wp-list-table .column-wishlist_count, table.wp-list-table .column-taxonomy-product_brand {
+    width: 8%!important;
+}
+
+
+.offer_block table.table {
+    padding: 5px 20px 5px 162px!important;
+    width: 100%;
+}
+
+.woocommerce_options_panel .offer_block table.table fieldset.form-field, .woocommerce_options_panel .offer_block table.table p.form-field {
+    padding: 0 5px 0 0 !important;
+}
+
+.woocommerce_options_panel .offer_block table.table p {
+    margin: 0 0 9px 0;
+}
+
+.woocommerce_options_panel .offer_block .short,.woocommerce_options_panel .offer_block input[type=text].short {
+    width: 100%;
+}
+
+.product-offer {
+    margin-top: 1.5em;
+}

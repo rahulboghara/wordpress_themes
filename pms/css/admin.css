@@ -1,0 +1,109 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+input[type=number] {
+  -moz-appearance:textfield;
+}
+.number_width{
+	width: 100%;
+}
+
+#tenants_meta_box select,
+#maintenance_meta_box select,
+#rent_meta_box select,
+#maintenance_user_meta_box select,
+#expenses_meta_box select,
+#payment_meta_box select{
+	width: 450px;
+}
+
+.ui-datepicker {
+    display: none;
+}
+
+#property_meta_box textarea,
+#property_meta_box input[type="date"],
+#property_meta_box input[type="email"], 
+#property_meta_box input[type="number"],  
+#property_meta_box input[type="search"], 
+#property_meta_box input[type="tel"], 
+#property_meta_box input[type="text"],
+
+#payment_meta_box textarea,
+#payment_meta_box input[type="date"],
+#payment_meta_box input[type="email"], 
+#payment_meta_box input[type="number"],  
+#payment_meta_box input[type="search"], 
+#payment_meta_box input[type="tel"], 
+#payment_meta_box input[type="text"],
+
+#expenses_meta_box textarea,
+#expenses_meta_box input[type="date"],
+#expenses_meta_box input[type="email"], 
+#expenses_meta_box input[type="number"],  
+#expenses_meta_box input[type="search"], 
+#expenses_meta_box input[type="tel"], 
+#expenses_meta_box input[type="text"],
+
+
+#maintenance_meta_box textarea,
+#maintenance_meta_box input[type="date"],
+#maintenance_meta_box input[type="email"], 
+#maintenance_meta_box input[type="number"],  
+#maintenance_meta_box input[type="search"], 
+#maintenance_meta_box input[type="tel"], 
+#maintenance_meta_box input[type="text"],
+
+#rent_meta_box textarea,
+#rent_meta_box input[type="date"],
+#rent_meta_box input[type="email"], 
+#rent_meta_box input[type="number"],  
+#rent_meta_box input[type="search"], 
+#rent_meta_box input[type="tel"], 
+#rent_meta_box input[type="text"],
+
+#maintenance_user_meta_box textarea,
+#maintenance_user_meta_box input[type="date"],
+#maintenance_user_meta_box input[type="email"], 
+#maintenance_user_meta_box input[type="number"],  
+#maintenance_user_meta_box input[type="search"], 
+#maintenance_user_meta_box input[type="tel"], 
+#maintenance_user_meta_box input[type="text"],
+
+#tenants_meta_box textarea,
+#tenants_meta_box input[type="date"],
+#tenants_meta_box input[type="email"], 
+#tenants_meta_box input[type="number"],  
+#tenants_meta_box input[type="search"], 
+#tenants_meta_box input[type="tel"], 
+#tenants_meta_box input[type="text"] {
+    padding: 3px 8px;
+    min-height: 36px;
+    margin: 5px 3px;
+    width: 450px;
+}
+
+
+#property_meta_box select,
+#payment_meta_box select,
+#expenses_meta_box select,
+#maintenance_meta_box select,
+#rent_meta_box select,
+#maintenance_user_meta_box select,
+#tenants_meta_box select{
+    padding: 3px 24px 3px 8px;
+    min-height: 36px;
+    margin: 5px 3px;
+    vertical-align: top;
+}
+
+#property_meta_box input[type="number"].calc-percentage,
+#property_meta_box input[type="number"].input-percentage,
+#property_meta_box input[type="number"].r-calc-percentage,
+#property_meta_box input[type="number"].r-input-percentage,
+#property_meta_box input[type="number"].input-flat,
+#property_meta_box input[type="number"].r-input-flat{width: auto;}

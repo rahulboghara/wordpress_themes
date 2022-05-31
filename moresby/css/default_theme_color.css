@@ -1,0 +1,19 @@
+
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: #e51c2e;
+	color: #fff;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background-color: #274397;
+    color: #ffffff;
+}
+
+

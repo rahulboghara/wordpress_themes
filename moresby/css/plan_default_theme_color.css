@@ -1,0 +1,20 @@
+/*Plan Section*/
+.mrb_plan_1 #mrb_plan_btn button.vc_btn3 {
+    color: #fff;
+    background: #e41b2b;
+}
+.mrb_plan_2 #mrb_plan_btn button.vc_btn3 {
+    color: #fff;
+    background: #36ae44;
+}
+.mrb_plan_3 #mrb_plan_btn button.vc_btn3 {
+    color: #fff;
+    background: #01adef;
+}
+
+.mrb_plan_1 #mrb_plan_btn button.vc_btn3:hover,
+.mrb_plan_2 #mrb_plan_btn button.vc_btn3:hover,
+.mrb_plan_3 #mrb_plan_btn button.vc_btn3:hover {
+    color: #fff;
+    background: #274397;
+}

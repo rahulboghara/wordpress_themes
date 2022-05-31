@@ -1,0 +1,21 @@
+/*service*/
+#mrb_service_1 #mrb_service_btn button.vc_btn3 {
+    color: #fff;
+    background: #01adef;
+}
+#mrb_service_2 #mrb_service_btn button.vc_btn3 {
+    color: #fff;
+    background: #e51c2e;
+}
+#mrb_service_3 #mrb_service_btn button.vc_btn3 {
+    color: #fff;
+    background: #36ad47;
+}
+
+
+#mrb_service_1 #mrb_service_btn button.vc_btn3:hover,
+#mrb_service_2 #mrb_service_btn button.vc_btn3:hover,
+#mrb_service_3 #mrb_service_btn button.vc_btn3:hover {
+    color: #fff;
+    background: #274397;
+}
